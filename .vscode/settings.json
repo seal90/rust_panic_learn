@@ -1,0 +1,11 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./load_async_fn/load_async_fn_define/Cargo.toml",
+        "./load_async_fn/load_async_fn_impl/Cargo.toml",
+        "./load_async_fn/load_async_fn_main/Cargo.toml",
+
+        "./load_async_trait/load_define/Cargo.toml",
+        "./load_async_trait/load_main/Cargo.toml",
+        "./load_async_trait/load_define/Cargo.toml"
+    ]
+}

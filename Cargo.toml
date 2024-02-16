@@ -1,0 +1,11 @@
+
+[workspace]
+resolver = "2"
+members = [
+    "load_async_trait/load_define",
+    "load_async_trait/load_impl",
+    "load_async_trait/load_main",
+    "load_async_fn/load_async_fn_define",
+    "load_async_fn/load_async_fn_impl",
+    "load_async_fn/load_async_fn_main",
+    ]
